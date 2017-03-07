@@ -13,7 +13,7 @@ p {
 }
 
 html {
-    background: url(http://greghub.com/img/PaleBlueBackdrop.jpg) no-repeat top center fixed;
+    background: url('PaleBlueBackdrop.jpg') no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
